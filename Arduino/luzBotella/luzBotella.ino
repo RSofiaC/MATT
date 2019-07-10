@@ -1,7 +1,5 @@
-// This is a demonstration on how to use an input device to trigger changes on your neo pixels.
-// You should wire a momentary push button to connect from ground to a digital IO pin.  When you
-// press the button it will change to a new pixel animation.  Note that you need to press the
-// button once to start the first animation!
+// Reference code: https://github.com/adafruit/Adafruit_NeoPixel/blob/master/examples/buttoncycler/buttoncycler.ino
+//Reference library: https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
 
 #include <Adafruit_NeoPixel.h>
 
